@@ -92,7 +92,6 @@ def write_csv():
     print("fin")
 
 
-
 if __name__ == "__main__":
     print()
     print("Welcome to Movie Scrapper! Scrap all movie releases by year")
